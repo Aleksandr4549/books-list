@@ -1,0 +1,30 @@
+.form__container {
+  display: flex;
+  margin-top: 20px;
+  width: 80%;
+}
+
+.form__field {
+  margin: 0 0 10px 0; 
+  padding: 8px;
+  outline: none;
+}
+
+#file {
+  opacity: 0;
+  width: 0.1px;
+  height: 0.1px;
+  position: absolute;
+}
+
+.form {
+  display: flex;
+  flex-direction: column;
+  width: 100%;
+}
+
+.form__cover {
+  display: flex;
+  flex-direction: column;
+  margin: 0 30px 0 0;
+}

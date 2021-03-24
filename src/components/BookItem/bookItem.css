@@ -1,0 +1,14 @@
+.book__item__container {
+  display: flex;
+  justify-content: space-between;
+  margin-top: 20px;
+  width: 80%;
+}
+
+.book__item {
+  margin: 0 10px 0 0; 
+  padding: 8px;
+  width: 30%;
+  word-wrap: break-word;
+  overflow: hidden;
+}
